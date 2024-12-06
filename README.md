@@ -1,4 +1,4 @@
-
+Daily Goals
 #This project is totally based on JavaScript, HTML and CSS. 
 
 
